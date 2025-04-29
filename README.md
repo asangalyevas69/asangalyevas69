@@ -1,5 +1,5 @@
 Hello World! I'am Sabina!👩🏼‍💻👋
-<img align="right" alt="coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/49e5716eade46e97656d5d6427b11340-1684516178/ANIMATE1_V2/can-make-gif-animated-in-the-form-of-pixel-art.gif" >
+<img align="right" alt="coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/49e5716eade46e97656d5d6427b11340-1684516178/ANIMATE1_V2/can-make-gif-animated-in-the-form-of-pixel-art.gif">
 <!--
 **asangalyevas69/asangalyevas69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
