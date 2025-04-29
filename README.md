@@ -1,5 +1,5 @@
 Hello World! I'am Sabina!👩🏼‍💻👋
-<img align="right" alt="coding" width="400" src="[[https://www.goof](https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif)](https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif)">
+
 <!--
 **asangalyevas69/asangalyevas69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
