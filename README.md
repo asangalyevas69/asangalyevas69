@@ -1,5 +1,12 @@
 Hello World! I'am Sabina!👩🏼‍💻👋
 
+
+- 🌱 I’m currently learning:
+- Advanced Python concepts 
+- Web development with Django REST Framework, Django/FastAPI
+- Database optimization techniques
+- CI/CD pipelines
+
 <!--
 **asangalyevas69/asangalyevas69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
