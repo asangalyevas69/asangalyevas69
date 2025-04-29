@@ -1,5 +1,5 @@
 Hello World! I'am Sabina!👩🏼‍💻👋
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fiverr.com%2Fsippo15%2Fcan-make-gif-animated-in-the-form-of-pixel-art&psig=AOvVaw1zOI7W0-YfpCDv5_1jf1l2&ust=1746044468570000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCS44CL_owDFQAAAAAdAAAAABAE.gif](https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif)">
+<img align="right" alt="coding" width="400"src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fiverr.com%2Fsippo15%2Fcan-make-gif-animated-in-the-form-of-pixel-art&psig=AOvVaw1zOI7W0-YfpCDv5_1jf1l2&ust=1746044468570000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCS44CL_owDFQAAAAAdAAAAABAE.gif](https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif)">
 <!--
 **asangalyevas69/asangalyevas69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
